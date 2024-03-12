@@ -20,7 +20,7 @@ Isnitiate your server on a new terminal
     <code>php artisan serve</code>
 </pre>
 
-Now, Go to your web browser, type the given URL
+Now, Go to your web browser, open the given URL
 
 
  <pre>
