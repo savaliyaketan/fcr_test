@@ -20,4 +20,9 @@ Isnitiate your server on a new terminal
     <code>php artisan serve</code>
 </pre>
 
- 
+Now, Go to your web browser, type the given URL
+
+
+ <pre>
+<code>http://localhost:8000/employee-ajax-crud</code>
+</pre>
